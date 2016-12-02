@@ -1,0 +1,510 @@
+Flag,First,Last,City,State,City State (concat),Motorcycle,Sites Visited,States Compl,Trophies,IBA Rides,Dough Boys,Flag Murals,Statues of Liberty,Sea to Shining Sea
+1,John,Langan,Martinez,CA,Martinez CA,Honda Goldwing,285,28,1,0,2,0,0,0
+2,Jerry,Jones,Renton,WA,Renton WA,Honda Goldwing,151,9,2,0,29,30,7,12
+3,Mike,Myren,Nowthen,MN,Nowthen MN,Yamaha FJR,44,5,2,0,0,0,0,0
+4,Kathy,Jones,Renton,WA,Renton WA,Pillion #2,120,4,1,0,17,27,4,10
+5,Chris,Comly,Willow Grove,PA,Willow Grove PA,HD Sportster,157,12,2,0,8,1,1,0
+6,Rony,Baenzinger,Palm Coast,FL,Palm Coast FL,BMW R1200GSA,0,0,0,0,0,0,0,0
+7,James,Bardin,Phoenix,AZ,Phoenix AZ,Honda GL1800,166,19,2,0,11,14,2,0
+8,Bill,Funnemark,Algona,IA,Algona IA,Triumph Trophy,129,12,2,0,5,21,6,0
+9,Mark,Scott,Maineville,OH,Maineville OH,Honda Goldwing,19,2,1,0,0,2,0,0
+10,Ken,Cowart,Alexander,AR,Alexander AR,HD Street Glide,241,24,1,4,50,43,32,1
+11,Mark,Kratz,Florence,TX,Florence TX,Honda African Twin,0,0,0,0,0,0,0,0
+12,Jim,Hatch,Simsbury,CT,Simsbury CT,BMW R1200RT,0,0,0,0,0,0,0,0
+13,Lynne,Carey,Bowling Green,KY,Bowling Green KY,Honda CTX,7,0,0,0,0,0,0,0
+14,Bob,Rippy,Vlg of Loch Lloyd,MO,Vlg of Loch Lloyd MO,BMW R1200RT,7,0,0,0,0,0,0,0
+15,Randy,Holcomb,Salem,OR,Salem OR,Kawasaki Versys,17,0,0,0,0,1,0,0
+16,Sam,Cottle,West Branch,MI,West Branch MI,HD Ultra Cl,0,0,0,0,0,0,0,0
+17,David,Brain,Millersville,MD,Millersville MD,HD CVO Ultra,0,0,0,0,0,0,0,0
+18,Charles,Lanterman,Red Rock,TX,Red Rock TX,HD Ultra Ltd,7,1,0,0,0,0,0,0
+19,Jerry,Read,Fuquay-Varina,NC,Fuquay-Varina NC,HD Heritage Classic,59,6,2,0,10,4,10,1
+20,Joe,Majsak,White Plains,NY,White Plains NY,BMW K1200LT,0,0,0,0,0,0,0,0
+21,Jim,Clement,St Petersburg,FL,St Petersburg FL,Yamaha FJR,29,3,1,0,6,3,7,0
+22,Jeff,Wilson,North Springfield,VA,North Springfield VA,BMW R1200RT,28,0,0,0,2,0,0,0
+23,Larry,Allen,Ball,LA,Ball LA,Honda Goldwing,21,3,0,0,10,4,4,0
+24,Matthew,Hogan,Kingman,AZ,Kingman AZ,Honda Magna,1,0,0,0,0,0,0,0
+25,Kimberly,Hogan,Kingman,AZ,Kingman AZ,Pillion #24,1,0,0,0,0,0,0,0
+26,Larry,Warren,Warner Robbins,GA,Warner Robbins GA,Yamaha Warrior,28,3,1,0,24,5,6,0
+27,Bob,Weibel,Menomonie,WI,Menomonie WI,HD Ultra Ltd,0,0,0,0,0,0,0,0
+28,Jackie,Weibel,Menomonie,WI,Menomonie WI,Pillion #27,0,0,0,0,0,0,0,0
+29,Janet,Lennox,Penrose,CO,Penrose CO,Victory Crossroads,6,0,0,0,0,0,0,0
+30,Stefan,Hamelin,St Charles,MO,St Charles MO,Triumph Bonneville,7,1,0,0,0,1,0,0
+31,Scott,Alexander,Basking Ridge,NJ,Basking Ridge NJ,Yamaha FJR,17,1,0,0,0,0,0,0
+32,Jim,Saul,Dunedin,FL,Dunedin FL,Yamaha FJR,58,3,0,1,20,1,2,0
+33,Gary,Shimizu,Fayetteville,NC,Fayetteville NC,BMW K1600GTL,54,5,2,0,29,8,26,1
+34,Glenn,Spelis,Pottsboro,TX,Pottsboro TX,Honda Goldwing,121,5,1,0,0,0,0,0
+35,Cheryl,Laudermilk,Bothell,WA,Bothell WA,BMW F650GS,49,6,1,0,2,7,0,0
+36,Paul,Paniagua,Napa,CA,Napa CA,HD Ultra Classic Ltd,14,2,1,0,0,2,0,0
+37,Lyle,Monroe,Smyrna,TN,Smyrna TN,Honda Goldwing,0,0,0,0,0,0,0,0
+38,William,Bell Sr,Chantilly,VA,Chantilly VA,Honda GL1800,0,0,0,0,0,0,0,0
+39,Scott,Ryan,Mansfield,TX,Mansfield TX,Kawasaki Vlcn Voy,7,1,0,0,0,0,0,0
+40,Charles,Kimmel,Puyallup,WA,Puyallup WA,Yamaha V-Star 1300,0,0,0,0,0,0,0,0
+41,Marilyn,Bardin,Phoenix,AZ,Phoenix AZ,Pillion #7,3,0,0,0,0,1,0,0
+42,Joe,Yarzebinski,Allison Park,PA,Allison Park PA,Suzuki V-Strom,14,0,0,0,8,0,1,1
+43,Chris,Sanderson,Bothell,WA,Bothell WA,HD RG CVO Ultra,3,0,0,0,0,0,0,0
+44,James,Epley,Fredericksburg,VA,Fredericksburg VA,Triumph Rocket III,37,4,1,3,10,6,5,0
+45,Russell,Dickerson,Fairfield Glade,TN,Fairfield Glade TN,Honda GL1800ADV,1,0,0,0,0,4,0,0
+46,Rick,Martin,Pontiac,IL,Pontiac IL,Yamaha FJR,4,0,0,0,0,1,2,0
+47,Mike,Hall,Stephenson,VA,Stephenson VA,Victory Vision Tour,33,3,2,2,2,7,0,0
+48,Doug,Blair,Sun City,AZ,Sun City AZ,BMW K1600GTL,57,6,2,0,1,9,0,0
+49,Gary,Serra,Apache Junction,AZ,Apache Junction AZ,HD Softail Deluxe,42,5,0,0,0,0,0,0
+50,John,King,Colorado,CO,Colorado CO,Honda Goldwing,27,1,1,0,0,0,0,0
+51,Ed,Rodriguez,Navarre,FL,Navarre FL,HD Ultra Classic,4,0,0,0,0,1,0,0
+52,Vicki,Swingle,Omaha,NE,Omaha NE,HD Trike,7,0,0,0,0,0,0,0
+53,Michael,Jordan,Sterling,VA,Sterling VA,Triumph Tiger Explr,7,1,1,0,0,0,0,0
+54,Richard,Hanson,Garland,TX,Garland TX,Suzuki DL650A,7,1,0,1,0,0,0,0
+55,Alan,Redd,Cedar Park,TX,Cedar Park TX,HD Road Glide,7,1,0,0,0,0,0,0
+56,Matt,Foresman,Kansas City,MO,Kansas City MO,Kawasaki Concourse,20,2,2,0,4,1,11,2
+57,Tom,Bussey,Jarretsville,MD,Jarretsville MD,HD Street Glide,16,1,1,0,23,4,8,1
+58,Michael,Kasarda,Brandon,FL,Brandon FL,BMW R1200RT,7,1,1,0,0,0,0,0
+59,Paul,Stark,San Jose,CA,San Jose CA,BMW R1200RT,20,2,0,0,1,0,0,0
+60,Lee,Barroll,Fairview,TN,Fairview TN,HD Road Glide Ultra,21,2,0,1,8,2,4,0
+61,Mark,Starrett,Fremont,CA,Fremont CA,Honda GL1800,13,1,0,0,1,0,0,0
+62,Pam,McLawhon,Aurora,CO,Aurora CO,HD Softail Slim,7,1,0,0,0,0,0,0
+63,Rob,Elliott,San Diego,CA,San Diego CA,BMW R1200RT,47,0,0,0,10,4,1,0
+64,Larry,Vietz,Valley Springs,CA,Valley Springs CA,HD Electra Glide,2,0,0,0,0,0,0,0
+65,Roy,Kjendal,Deerfield,NH,Deerfield NH,BMW K1600GTL,24,1,1,0,0,4,0,0
+66,Alexander,Schmidt,Phoenix,AZ,Phoenix AZ,Kawasaki Concours 14,21,1,0,2,0,0,1,0
+67,David,Canada,Fairfax,VA,Fairfax VA,HDStreet Glide,19,1,0,0,0,0,0,0
+68,Rob,Shirk,Dyersburg,TN,Dyersburg TN,Yamaha RSV,14,1,1,1,3,2,6,0
+69,Sharon,Shirk,Dyersburg,TN,Dyersburg TN,Pillion #68,14,1,1,1,3,2,6,0
+70,Leoncio,Lopez,Burke,VA,Burke VA,HD Dyna Lowrider,14,0,0,0,0,0,0,0
+71,Vicki,Rossing,Round Lake,IL,Round Lake IL,Yamaha FJR,14,2,1,2,1,2,0,0
+72,Fred,Niblock,Warrensburg,MO,Warrensburg MO,BMW K1600GTL,17,1,0,1,0,0,0,0
+73,Don,Krause,Crestline,CA,Crestline CA,Triumph Tiger 800XC,18,1,0,0,0,0,0,0
+74,Sharon,Krause,Crestline,CA,Crestline CA,Kawasaki Versys,21,1,0,0,0,0,0,0
+75,Roger,Van Santen,Fountain Hills,AZ,Fountain Hills AZ,BMW R1200RT-LC,38,4,0,0,1,0,0,0
+76,William,Ernser,Georgetown,TX,Georgetown TX,Indian,0,0,0,0,0,0,0,0
+77,Jeff,Heimburger,Phoenix,AZ,Phoenix AZ,Honda ST1300,7,1,0,0,0,1,0,0
+78,David,McAfee,Georgetown,TX,Georgetown TX,Honda Goldwing,0,0,0,0,0,0,0,0
+79,Dale,Claussen,St Cloud,MN,St Cloud MN,Victory Vision,18,1,1,0,1,0,2,0
+80,Mike,Woodall,Omaha,NE,Omaha NE,HD Street Glide,0,0,0,0,0,0,0,0
+81,William,Valvo,Newport News,VA,Newport News VA,HD,0,0,0,0,0,0,0,0
+82,Patricia,Valvo,Newport News,VA,Newport News VA,Pillion #81,0,0,0,0,0,0,0,0
+83,James,Stovall,Vega,TX,Vega TX,Honda Goldwing,7,1,1,0,0,0,0,0
+84,Karen,Stovall,Vega,TX,Vega TX,Pillion #83,7,1,1,0,0,0,0,0
+85,David,Johanson,Navasota,TX,Navasota TX,Honda Goldwing,21,3,1,0,5,1,2,0
+86,Christy,Berry,Navasota,TX,Navasota TX,Pillion #85,14,2,0,0,1,1,2,0
+87,Gene,Benson,Reno,NV,Reno NV,BMW R1200,0,0,0,0,0,0,0,0
+88,Bill,McComb,Philadelphia,PA,Philadelphia PA,HD Triglide,0,0,0,0,0,0,0,0
+89,Oliver,Jaeger,Hobbs,NM,Hobbs NM,BMW R1200GSA,7,1,0,0,0,0,0,0
+90,James,Feighny,Rockville,MD,Rockville MD,Yamaha FJR,3,0,0,0,0,0,0,0
+91,Ron,Vangas,Derby,KS,Derby KS,Honda VTX1300,13,1,0,0,5,0,20,0
+92,Jeannie,Vangas,Derby,KS,Derby KS,Pillion #91,13,1,0,0,5,0,20,0
+93,Van,Huddleston,Wills Point,TX,Wills Point TX,HD Ultra Classic,9,1,0,0,0,0,0,0
+94,Richard,Botts,Temple,TX,Temple TX,HD Road King Classic,10,1,0,0,7,1,0,0
+95,Minna,Case,West Dover,VT,West Dover VT,BMW 1200GS,64,2,0,1,10,11,10,0
+96,Rick,Harvey,North Platte,NE,North Platte NE,Moto Guzzi Stelvio NTX,14,1,0,0,14,0,15,0
+97,Trevor,Mikkelsen,Great Falls,MT,Great Falls MT,Yamaha FJR,0,0,0,0,0,0,0,0
+98,Mitch,Davis,Toano,VA,Toano VA,Honda ST1300A,0,0,0,0,0,0,0,0
+99,John,Gretzinger,Canoga Park,CA,Canoga Park CA,Moto Guzzi Norge,5,0,0,1,0,0,0,0
+100,Kenneth,Andrews,Benton,AR,Benton AR,HD Road King,258,20,2,4,142,36,94,11
+101,Eliza,Andrews,Benton,AR,Benton AR,HD Road King,12,0,0,0,25,4,30,0
+102,Andrew,Spencer,Benton,AR,Benton AR,HD Road King,23,2,1,1,12,2,31,0
+103,Don,Savell,Kingwood,TX,Kingwood TX,HD Street Glide,0,0,0,0,0,0,0,0
+104,Jim,Smith,Georgetown,TX,Georgetown TX,BMW R1200RT,3,0,0,0,4,0,0,0
+105,Dody,Day,Colorado Springs,CO,Colorado Springs CO,Honda Goldwing Trike,7,0,0,0,0,0,0,0
+106,Kevin,Miller,Amoret,MO,Amoret MO,HD Heritage Softail,31,4,0,0,37,5,42,2
+107,Paul,Hitchcock,Oakton,VA,Oakton VA,HD UTG,0,0,0,0,0,0,0,0
+108,Stephanie,Crapo,Oakton,VA,Oakton VA,Pillion #107,0,0,0,0,0,0,0,0
+109,Andrew,Tatton,Tivoli,TX,Tivoli TX,Yamaha Spr Tenere,0,0,0,0,0,0,0,0
+110,Brian,Thorn,Sun Lakes,AZ,Sun Lakes AZ,Honda Goldwing,0,0,0,0,0,0,0,0
+111,John,Andruszka,Sierra Vista,AZ,Sierra Vista AZ,Yamaha FJR,23,2,1,0,0,0,0,0
+112,Philip,Goldsby,Lenexa,KS,Lenexa KS,BMW R1150RT,0,0,0,0,0,0,0,0
+113,Robert,Shelton,Fremont,CA,Fremont CA,Honda ST1300A,14,2,1,0,1,0,0,0
+114,Bill,Lance,Mills River,NC,Mills River NC,BMW K1600GTL,36,2,0,0,23,1,1,0
+115,Millo,Wallace,Minot,ND,Minot ND,HD FXDXT,1,0,0,0,0,0,0,0
+116,William,Amerson,Durham,NC,Durham NC,HD Ultra,18,1,0,0,6,4,2,0
+117,Randy,Bishop,Highlands Ranch,CO,Highlands Ranch CO,BMW R1150GS,12,0,0,0,15,1,16,0
+118,Joe,Smith,Fairfax,VA,Fairfax VA,Honda Goldwing,3,0,0,0,0,0,0,0
+119,Calvin,Lunsford,South Beloit,IL,South Beloit IL,Honda Goldwing,7,1,0,0,0,0,0,0
+120,Charles,Lunsford,South Beloit,IL,South Beloit IL,Honda ST-1100,7,1,0,0,0,0,0,0
+121,John M,Bittner,Yardley,PA,Yardley PA,HD Limited,7,1,1,0,0,0,0,0
+122,Joe,Ruddy,Scranton,PA,Scranton PA,Yamaha Super Tenere,4,0,0,0,0,0,0,0
+123,Darren,Thomas,Austin,MN,Austin MN,Honda Goldwing,38,2,1,1,7,10,18,1
+124,Michael,OBannon,Frisco,TX,Frisco TX,HD Street Glide,1,0,0,0,0,0,0,0
+125,Paul,Stone,Laramie,WY,Laramie WY,Ural Gear Up,7,0,0,0,0,0,0,0
+126,Aaron,Willits,Waterford,CA,Waterford CA,HD FXDWG,0,0,0,0,0,0,0,0
+127,Michael,Celsi,Golden Valley,AZ,Golden Valley AZ,HD FXWDG,4,0,0,0,0,0,0,0
+128,Bob,Bowman,Warrensburg,MO,Warrensburg MO,Honda ST1300A,8,1,1,0,0,0,0,0
+129,Richard,Etchberger,Vernal,UT,Vernal UT,BMW R1200RT,7,1,1,0,0,0,0,0
+130,J R,Miller,Choctaw,OK,Choctaw OK,HD Fatboy,22,3,1,1,0,2,3,0
+131,Candi,Conley,Quartzite,AZ,Quartzite AZ,HD Softail Slim,0,0,0,0,0,0,0,0
+132,Dan,Hoeksema,Richland,MI,Richland MI,Triumph Thunderbird,1,0,0,0,0,0,0,0
+133,Mike,Hoeksema,Battle Creek,MI,Battle Creek MI,HD Road King,1,0,0,0,0,0,0,0
+134,Thomas,Herzing,Battle Creek,MI,Battle Creek MI,HD Street Glide,1,0,0,0,0,0,0,0
+135,Bruce,Garry,Moultonborough,NH,Moultonborough NH,Honda Goldwing,83,8,0,0,18,16,1,1
+136,Dee,Rhoton,Knob Noster,MO,Knob Noster MO,Can Am Spyder,14,2,1,0,7,1,10,1
+137,Bobbi,Aitken,Nokomis,FL,Nokomis FL,HD Heritage Softail,31,2,1,0,1,5,0,0
+138,Michael,Brown SR,Fayetteville,NC,Fayetteville NC,Honda GL1500,7,1,0,0,1,1,0,0
+139,Shareef,AsSadiq,San Diego,CA,San Diego CA,Indian Roadmaster,36,3,1,1,7,6,12,1
+140,Robert,Elliott,Atlanta,MI,Atlanta MI,Honda CTX 1300,7,1,1,0,0,0,0,0
+141,Jim,McCrain,Frisco,TX,Frisco TX,Triumph Storm,11,0,0,0,12,0,13,0
+142,Jon,Coomer,Murfreesboro,TN,Murfreesboro TN,Kawasaki Vulcan,7,1,1,0,0,0,0,0
+143,Brad,Bakke,Huntley,IL,Huntley IL,HD Ultra Limited,7,1,1,0,2,0,0,0
+144,Shawn,Long,Murfreesboro,TN,Murfreesboro TN,Yamaha Royal Star,7,1,1,0,0,0,0,0
+145,Harold,Mette,Clermont,FL,Clermont FL,Can Am F3S,0,0,0,0,0,0,0,0
+146,Gary A,Galamay,Galt,CA,Galt CA,Cyclone RX3,1,0,0,0,0,0,0,0
+147,Wallace,French,Chelsea,MA,Chelsea MA,BMW R1150RT,28,0,0,0,0,8,0,0
+148,Dale,Rich,Vacaville,CA,Vacaville CA,BMW K1200LT,0,0,0,0,0,0,0,0
+149,Barry,Pennings,Richardson,TX,Richardson TX,HD Road Glide,1,0,0,0,0,0,0,0
+150,Tim,Isaacs,Angier,NC,Angier NC,HD FLH,30,1,0,0,10,4,7,1
+151,Eric,Marshall,The Colony,TX,The Colony TX,Honda Goldwing,17,1,0,0,7,2,8,0
+152,Tim,Billings,West Fork,AR,West Fork AR,Honda Goldwing Trike,3,0,0,0,0,0,0,0
+153,Cyrilee,Billings,West Fork,AR,West Fork AR,Pillion #152,3,0,0,0,0,0,0,0
+154,Jon,Adams,Mount Vernon,WA,Mount Vernon WA,Yamaha V-Star 1300,7,1,0,0,0,0,0,0
+155,Aaron,Emery,Edmond,OK,Edmond OK,HD Tri Glide Trike,0,0,0,0,0,0,0,0
+156,Shane,Adams,Thomaston,GA,Thomaston GA,Honda ST1300,2,0,0,0,4,0,0,0
+157,Chris,Mezzapelle,Pleasant Hill,CA,Pleasant Hill CA,HD Road Glide,1,0,0,0,1,1,1,0
+158,MaryAnn,Mezzapelle,Pleasant Hill,CA,Pleasant Hill CA,Pillion #157,1,0,0,0,1,1,1,0
+159,Eric,Markus,Denver,CO,Denver CO,HD FLTRXS,8,1,0,0,0,0,0,0
+160,Kenneth,Myers,Baltimore,MD,Baltimore MD,BMW K1600GTL,0,0,0,0,0,0,0,0
+161,Don,Day,Wetumpka,AL,Wetumpka AL,HD Heritage Softail,0,0,0,0,0,0,0,0
+162,Owen,Quarles,Houston,TX,Houston TX,Yamaha FJR,14,2,0,0,0,0,0,0
+163,John,Hein,San Jose,CA,San Jose CA,Honda Goldwing,7,1,1,0,1,0,0,0
+164,Daniel,Dyer,Pendleton,OR,Pendleton OR,Yamaha SuperT,11,1,0,0,0,0,0,0
+165,William,Lentz,Bradyville,TN,Bradyville TN,Triumph Tiger 955i,0,0,0,0,0,0,0,0
+166,Billy,Davenport,Carmichael,CA,Carmichael CA,Yamaha Road Star,0,0,0,0,0,0,0,0
+167,Larry,Rochelle,Catheys Valley,CA,Catheys Valley CA,BMX R1200GSA,0,0,0,0,0,0,0,0
+168,Skip,Close,Lincoln,CA,Lincoln CA,Kawasaki Versys 1000 LT,7,0,0,0,0,0,0,0
+169,Gregory,Snodgrass,Colorado Springs,CO,Colorado Springs CO,Yamaha FJR,9,1,0,0,0,0,0,0
+170,Bruce,Edwards,Austin,TX,Austin TX,HD Ultra Limited,7,0,0,0,0,0,0,0
+171,Ed,Kandel,Maple City,MI,Maple City MI,HD Electra Glide Ultra,4,0,0,0,0,0,0,0
+172,David,Lasater,Commerce City,CO,Commerce City CO,BMW K1200LT,7,0,0,0,0,0,0,0
+173,Charles,Snyder,Etters,PA,Etters PA,Yamaha FJR,25,0,0,0,0,4,1,0
+174,Rob,Mizner,Raymore,MO,Raymore MO,HD Road King,38,3,0,0,35,4,34,2
+175,Michael,Jones,Lillington,NC,Lillington NC,HD Ultra,34,2,2,0,3,2,2,0
+176,Steve,Wilson,Doylestown,PA,Doylestown PA,HD Ultra Limited,0,0,0,0,0,0,0,0
+177,Daniel,Oberst,Spencer,OH,Spencer OH,HD Classic,0,0,0,0,0,0,0,0
+178,Greek,Souris,Nova,OH,Nova OH,HD Limited Edition,13,1,1,0,0,0,0,0
+179,David,Brown,Brookeville,MD,Brookeville MD,HD Ultra Limited Low,0,0,0,0,0,0,0,0
+180,Don,Allman,Penrose,CO,Penrose CO,BMW K1200LT Trike,0,0,0,0,0,0,0,0
+181,Wes,McCann,Roswell,GA,Roswell GA,BMW R1200GSA,26,0,0,0,0,0,0,0
+182,Caroline,Burtt,Penn Valley,CA,Penn Valley CA,Can Am Spyder,0,0,0,0,0,0,0,0
+183,Reno,Mastrocola,Parlin,NJ,Parlin NJ,HD Electra Glide,0,0,0,0,0,0,0,0
+184,Brett,Kluiber,Lorain,OH,Lorain OH,Honda Goldwing,113,7,1,0,3,20,1,0
+185,Rich,Gruner,Hoffman Estates,IL,Hoffman Estates IL,Honda ST1300,7,0,0,0,0,0,0,0
+186,Adrian,Musters,Hunstville,Ontario,Hunstville Ontario,Honda Goldwing,4,0,0,0,0,0,0,0
+187,Paul,Slaton,The Woodlands,TX,The Woodlands TX,Yamaha FJR,0,0,0,0,0,0,0,0
+188,Phillip,Griggs,Bixby,OK,Bixby OK,Honda,12,1,0,0,0,0,0,0
+189,Eric,Bray,Alexandria,VA,Alexandria VA,BMW R1200GSA,26,0,0,0,0,0,0,0
+190,David,Dubois,Dundalk,MD,Dundalk MD,Suzuki DL 650,11,0,0,0,0,0,0,0
+191,Bob,Clement,Zion,IL,Zion IL,Honda F6B,24,1,1,0,0,8,0,0
+192,Deanah,Hendrix,Franklinton,NC,Franklinton NC,Suzuki Intruder,0,0,0,0,0,0,0,0
+193,Jerry,White,San Leandro,CA,San Leandro CA,Suzuki DL1000,0,0,0,0,0,0,0,0
+194,Alexander,Harper,Oakland,CA,Oakland CA,Yamaha FJR1300,0,0,0,0,0,0,0,0
+195,David,Orndoorff,Buckhannon,WV,Buckhannon WV,Triumph Street Triple,7,1,0,0,0,0,0,0
+196,Tony,Hudson,Aiken,SC,Aiken SC,Can Am Spyder F#,0,0,0,0,0,0,0,0
+197,Greg,Golly,Grapevine,TX,Grapevine TX,Suzuki Vstrom 650,0,0,0,0,0,0,0,0
+198,Randy,Golly,Grapevine,TX,Grapevine TX,BMW R1200RT,3,0,0,0,0,0,0,0
+199,Mike,Dooley,Woodstock,IL,Woodstock IL,Yamaha V-Star 1100C,0,0,0,0,0,0,0,0
+200,Douglas,Grant,Wichita,KS,Wichita KS,HD Super Glide,0,0,0,0,0,0,0,0
+201,Randy,Gilreath,Tinker AFB,OK,Tinker AFB OK,Yamaha Royal Star,0,0,0,0,0,0,0,0
+202,Joseph,Hoyle,Enterprise,AL,Enterprise AL,Victory Cross Roads,7,1,0,0,0,0,0,0
+203,Steven,Peyton,Belleville,IL,Belleville IL,HD Road Glide,25,0,0,0,0,0,0,0
+204,Scott,Jones,Maple Valley,WA,Maple Valley WA,Yamaha FJR,9,1,1,0,2,1,0,0
+205,Preston,Bebee,Georgetown,TX,Georgetown TX,Aprilia Caponord 1200,9,1,1,0,0,0,0,0
+206,Daryl,Marshall,Lawton,OK,Lawton OK,HD Ultra Limited,8,1,0,0,0,0,0,0
+207,Donald,Lundgren,Owasso,OK,Owasso OK,HD Ultra,19,1,1,0,6,1,0,0
+208,Heinz,Spielvogel,Charlestown,RI,Charlestown RI,HD Road Glide,19,0,0,0,4,0,0,0
+209,John,Bailey,Hudson,NC,Hudson NC,Kawasaki Concours 14,22,1,1,0,4,0,1,0
+210,Ronald,Tolzin,Minot,ND,Minot ND,HD Dyna Superglide C,0,0,0,0,0,0,0,0
+211,Mark,Ryan,Bowie,MD,Bowie MD,HD 2013 CVO Ultra,0,0,0,0,0,0,0,0
+212,Karl,Pyle,Anchorage,AK,Anchorage AK,HD Sportster 1200L,0,0,0,0,0,0,0,0
+213,Don,Smith,Springfield,VA,Springfield VA,CanAm Spyder RT Ltd,0,0,0,0,0,0,0,0
+214,Kathie,Weinhardt,Springfield,VA,Springfield VA,Pillion #213,0,0,0,0,0,0,0,0
+215,Ken,Roggenkamp,Kingsville,MO,Kingsville MO,BMW K1600GT,28,0,0,0,0,0,0,0
+216,Sandra,Roggenkamp,Kingsville,MO,Kingsville MO,Pillion #215,28,0,0,0,0,0,0,0
+217,Robert,McCarthy,Southampton,PA,Southampton PA,HD Road Glide Ultra,42,3,0,0,22,0,1,0
+218,Jim,Clark,Pittsburgh,PA,Pittsburgh PA,Honda PC800,7,0,0,0,2,1,1,0
+219,Gary,Rosen,Green Brook,NJ,Green Brook NJ,HD Ultra Limited,12,1,1,0,12,0,0,0
+220,Linda,Ryan,Bowie,MD,Bowie MD,HD FLHXXX,0,0,0,0,0,0,0,0
+221,Jay,McCormick,Tulsa,OK,Tulsa OK,HD Triglide,0,0,0,0,0,0,0,0
+222,Tad,Scott,Clarksville,OH,Clarksville OH,Honda Goldwing,209,19,2,0,47,21,38,7
+223,Judy,Malandruccolo,Plano,TX,Plano TX,Suzuki Boulevard C50,5,0,0,0,4,1,1,0
+224,Tom,Hogland,Wasilla,AK,Wasilla AK,Yamaha V-Star 1300T,7,1,1,0,0,0,0,0
+225,Charles,Tromba,Jacksonville,NC,Jacksonville NC,Honda Goldwing,8,1,0,0,0,0,0,0
+226,David,Clark,Athens,GA,Athens GA,Kawasaki Concours 14,4,0,0,0,0,0,0,0
+227,Roland,Quintero,Fairfield,CA,Fairfield CA,BMW R1150RTP,7,1,1,0,0,0,0,0
+228,Bud,Bonnema,Palm Harbor,FL,Palm Harbor FL,Yamaha Super Tenere,0,0,0,0,0,0,0,0
+229,Kenneth,Trass,Bowie,MD,Bowie MD,Honda Gold Wing,140,8,1,0,4,0,0,0
+230,Bruce,Hilger,Yuba City,CA,Yuba City CA,BMW R1200GS,0,0,0,0,0,0,0,0
+231,Armando,Aviles,Newark,NJ,Newark NJ,Kawasaki Voyager,16,1,1,0,0,0,0,0
+232,David,Bjork,Elgin,IL,Elgin IL,Honda ST1300,21,1,1,0,0,3,0,0
+233,Lee,Martin,Cumming,GA,Cumming GA,Yamaha FJR1300,7,1,1,0,0,0,0,0
+234,Wade,Schile,Ft. White,FL,Ft. White FL,HD CVO,0,0,0,0,0,0,0,0
+235,Vivian,Schile,Ft. White,FL,Ft. White FL,HD Deluxe,0,0,0,0,0,0,0,0
+236,Chuck,Berry,Indian Harbour Beach,FL,Indian Harbour Beach FL,BMW R1200 GSA,1,0,0,0,0,0,0,0
+237,James,Griffin,Littleton,CO,Littleton CO,Honda GL1800,0,0,0,0,0,0,0,0
+238,Barbara,Griffin,Littleton,CO,Littleton CO,Pillion #237,0,0,0,0,0,0,0,0
+239,David,Bankhead,Sealy,TX,Sealy TX,Kawasaki Concours 14,4,0,0,0,0,0,0,0
+240,Sid,Street,Laughlin,NV,Laughlin NV,Honda GL1500 Trike,13,1,0,0,0,0,0,0
+241,David,Alderman,Moore,OK,Moore OK,HD Street Glide,14,1,1,0,107,15,35,4
+242,Lamar,Nichols,Washington,UT,Washington UT,BMW R1200GS,7,1,1,0,2,0,0,0
+243,Gary,Wright,New Castle,VA,New Castle VA,HD TriGlide Trike,3,0,0,0,0,0,0,0
+244,Michael,Baumann,Riverside,CA,Riverside CA,Suzuki V-Strom 650,4,0,0,0,0,0,0,0
+245,Bobby,McGhee,Saint Paris,OH,Saint Paris OH,HD Heritage Softail C,7,0,0,1,0,0,0,3
+246,David,Wilson,Grosse Pointe,MI,Grosse Pointe MI,Yamaha FJR1300A,7,0,0,0,0,0,0,0
+247,Doug,Chasick,Melbourne Beach,FL,Melbourne Beach FL,Can Am RT-S,7,1,0,1,0,0,0,0
+248,Eva,Veres,Fishkill,NY,Fishkill NY,Triumph Bonneville 900,0,0,0,0,0,0,0,0
+249,Thomas,Smith,Minot,ND,Minot ND,BMW K1600GT,8,1,1,0,0,0,0,0
+250,John,Cannon,Gaithersburg,MD,Gaithersburg MD,HD Road Glide Ultra,35,2,1,0,4,0,0,12
+251,Laimon,Cannon,Gaithersburg,MD,Gaithersburg MD,Pillion #250,35,2,1,0,4,0,0,12
+252,Robert,Loeffler,Lexington,KY,Lexington KY,HD Ultra Classic,6,0,0,0,1,0,0,0
+253,Steve,Brown,Middleboro,MA,Middleboro MA,BMW R1200GS,7,0,0,0,0,3,1,0
+254,JoAnne,Brown,Middleboro,MA,Middleboro MA,Pillion #154,1,0,0,0,0,1,0,0
+255,Robert,Brown,Derby,KS,Derby KS,Kawasaki Vulcan,7,1,0,0,3,1,22,1
+256,Joanna,Brown,Derby,KS,Derby KS,Yamaha V-Star,7,1,0,0,3,1,22,1
+257,Kirk,Daniels,Kokomo,IN,Kokomo IN,HD CVO Ultra Classic,0,0,0,0,0,0,0,0
+258,Wendy,Daniels,Kokomo,IN,Kokomo IN,Pillion #257,0,0,0,0,0,0,0,0
+259,Frank,Crist,Shoreline,WA,Shoreline WA,Yamaha Stratoliner Dlx,0,0,0,0,0,0,0,0
+260,Michael,Spickelmier,Lansing,KS,Lansing KS,HD Ultra,1,0,0,0,1,0,1,0
+261,Thomas,Rasch,Taunton,MA,Taunton MA,HD FLRT,8,0,0,0,0,0,0,0
+262,Greg,Blewett,Franklin,KY,Franklin KY,BMW GSA,0,0,0,0,0,0,0,0
+263,Stan,Ruhnke,Troy,KS,Troy KS,HD Ultra Classic,0,0,0,0,0,0,0,0
+264,Carl,Viars,Montgomery,AL,Montgomery AL,Yamaha FJR1300A,4,0,0,0,0,0,0,0
+265,Raymond,Piatt,Harpers Ferry,WV,Harpers Ferry WV,HD Ultra Limited Low,11,0,0,0,0,0,0,0
+266,Eric,Jewell,Castro Valley,CA,Castro Valley CA,Honda ST1300A,7,1,1,0,1,0,0,0
+267,Jose,Perez,Newark,NJ,Newark NJ,Suzuki M109R,16,1,1,0,0,0,0,0
+268,Dan,Buis,Niceville,FL,Niceville FL,HD CVO Ultra,7,1,1,0,0,0,0,0
+269,Marco,Anglesio,Bethlehem,PA,Bethlehem PA,Suzuki DL1000,7,1,0,1,0,0,0,0
+270,Kevin,Blevins,Robesonia,PA,Robesonia PA,HD Ultra Classic,59,3,1,0,2,13,12,0
+271,Jeff,Scranton,Plainfield,IL,Plainfield IL,HD Road King Classic,0,0,0,0,0,0,0,0
+272,Dawn,ZaBelle,Molino,FL,Molino FL,Indian Scout,0,0,0,0,0,0,0,0
+273,Steven,Earles,McKinney,TX,McKinney TX,HD Road Glide,5,0,0,0,0,1,0,0
+274,Rick,Dorman,Little Elm,TX,Little Elm TX,Victory Vision,0,0,0,0,0,0,0,0
+275,Thomas,Southwood,Westfield,IN,Westfield IN,HD Road King,4,0,0,0,12,1,4,0
+276,Rich,Rulau,Rosenberg,TX,Rosenberg TX,Yamaha FJR,75,8,2,8,11,11,0,0
+277,David A.,Cary,Lee's Summit,MO,Lee's Summit MO,Honda GL1800 Trike,35,5,0,0,0,0,0,0
+278,John,Case,Katy,TX,Katy TX,HD Ultra Classic,0,0,0,0,0,0,0,0
+279,Justin,Volker,Adams,NE,Adams NE,HD Electra Glide Ultra LTD,14,2,2,0,0,0,0,0
+280,Patty,Volker,Adams,NE,Adams NE,Pillion #279,7,1,0,0,0,0,0,0
+281,Dave,VanVerth,Winter Park,FL,Winter Park FL,Can Am RT,0,0,0,0,0,0,0,0
+282,Jim,Pokrandt,Pensacola,FL,Pensacola FL,HD Ultra Classic,0,0,0,0,0,0,0,0
+283,Philip,Stribrny,Northwood,OH,Northwood OH,Yamaha FJR1300,7,1,1,0,0,0,0,0
+284,Sean,Carney,Oak Harbor,WA,Oak Harbor WA,Yamaha Stratoliner,0,0,0,0,0,0,0,0
+285,Michele,Carney,Oak Harbor,WA,Oak Harbor WA,Pillion #284,0,0,0,0,0,0,0,0
+286,Don,Castillo,San Jose,CA,San Jose CA,Yamaha FJR1300A,3,0,0,0,0,0,0,0
+287,Don,Leemhuis,Tuscaloosa,AL,Tuscaloosa AL,Honda GL1800,35,3,2,0,12,4,14,0
+288,Keith,Kolb,Albuquerque,NM,Albuquerque NM,HD Street Glide,0,0,0,0,0,0,0,0
+289,Robin,Ruhnke,Troy,KS,Troy KS,HD Dyna Wideglide,0,0,0,0,0,0,0,0
+290,Mike,Hernandez,Phoenix,AZ,Phoenix AZ,HD Ultra Limited,7,1,0,0,0,0,0,0
+291,Ed,Pukalski,Indian Trail,NC,Indian Trail NC,HD Street Glide,0,0,0,0,0,0,0,0
+292,Frank,Breitbach,Alamogordo,NM,Alamogordo NM,BMW R1200RT,0,0,0,0,0,0,0,0
+293,Carol,Breitbach,Alamogordo,NM,Alamogordo NM,BMW,0,0,0,0,0,0,0,0
+294,Charles R,Butler III,Gillette,WY,Gillette WY,HD Limited Ultra,0,0,0,0,0,0,0,0
+295,Steve,Youngman,Creedmoor,NC,Creedmoor NC,HD Road Glide Ultra,0,0,0,0,0,0,0,0
+296,Roger,Swartout,Danville,IN,Danville IN,Suzuki Burgman,7,1,1,0,0,0,0,0
+297,Carl,Griffis,Greer,SC,Greer SC,Yamaha FJR ES,195,19,2,1,64,20,42,8
+298,Arthur,Sigmon,Rockwell,NC,Rockwell NC,Suzuki Intruder,0,0,0,0,0,0,0,0
+299,Ruth,Effner,Wauchula,FL,Wauchula FL,Honda Goldwing,0,0,0,0,0,0,0,0
+300,Vic,Hollingsworth,Anna,TX,Anna TX,HD Street Glide,7,0,0,1,2,0,0,0
+301,Brandon,Hooley,Dallas,TX,Dallas TX,HD Heritage Classic,0,0,0,0,0,0,0,0
+302,David,Day,Rock Springs,WY,Rock Springs WY,Honda Goldwing,14,2,0,0,0,0,0,0
+303,Harden,Ricci,Holly Springs,NC,Holly Springs NC,HD FLHTP,9,1,1,0,0,0,0,0
+304,James,Hampshire,Deland,FL,Deland FL,HD Cross Bones,0,0,0,0,0,0,0,0
+305,John,Maurice,Chesapeake,VA,Chesapeake VA,Honda VFR 800,0,0,0,0,0,0,0,0
+306,Tom,Holst,El Cajon,CA,El Cajon CA,HD Road Glide,10,1,0,0,0,0,0,0
+307,Jeff,Miller,Plainville,KS,Plainville KS,Honda Goldwing 1800,7,1,1,1,0,0,0,0
+308,Anthony,Puma,San Ramon,CA,San Ramon CA,Ducati M900,0,0,0,0,0,0,0,0
+309,Dan,Reynard,Seymour,WI,Seymour WI,Indian Dark Horse,9,1,0,0,14,2,6,0
+310,Steve,McLaughlin,New Braunfels,TX,New Braunfels TX,BMW R1200GSA,15,2,1,1,0,0,0,0
+311,Ken,Concepcion,Orange,CA,Orange CA,BMW F800GT,8,0,0,0,1,0,0,0
+312,Howard,Phelps,Nampa,ID,Nampa ID,Honda VTX1800R,15,2,2,1,0,0,0,0
+313,Tom,Marshall,Euharlee,GA,Euharlee GA,HD Fatboy Lo,0,0,0,0,0,0,0,0
+314,Pam,Gow,Los Lunas,NM,Los Lunas NM,HD Electra Glide,0,0,0,0,0,0,0,0
+315,Liz,Connors,Vancouver,WA,Vancouver WA,Victory Vision,5,0,0,0,0,1,0,0
+316,Dwayne,Beach,Saginaw,TX,Saginaw TX,HD Heritage,8,1,0,0,0,0,0,0
+317,Mark,Cross,Baxter,MN,Baxter MN,Honda GL1800,8,1,0,0,0,0,0,0
+318,Nancy,Cross,Baxter,MN,Baxter MN,Pillion #317,8,1,0,0,0,0,0,0
+319,John,DePaola,Burnt Hills,NY,Burnt Hills NY,HD FLHR Road King,8,0,0,0,0,0,0,0
+320,Michele,VanOsterlitz,Burnt Hills,NY,Burnt Hills NY,Pillion #319,8,0,0,0,0,0,0,0
+321,David,Dempsey,Eudora,KS,Eudora KS,Aprilia Caponord 1200,0,0,0,0,0,0,0,0
+322,Heiko,Pinero,Newport News,VA,Newport News VA,Yamaha V Star 950,5,0,0,0,0,0,0,0
+323,Rick,Bailey,Duncanville,AL,Duncanville AL,Yamaha Super Tenere,35,3,2,0,10,4,10,0
+324,John,Zabelle,Molino,FL,Molino FL,BMW R1200GS,4,0,0,0,1,2,1,0
+325,James,Whitaker,Lillington,NC,Lillington NC,BMW Custom Sidecar,7,1,0,0,0,0,0,0
+326,Joel,Howle,Hartsville,SC,Hartsville SC,BMW K1200LT,35,2,0,0,23,7,0,0
+327,John M,White,Philadelphia,PA,Philadelphia PA,HD Ultra Classic,0,0,0,0,0,0,0,0
+328,Scott,Houston,White Sands Missile Range,NM,White Sands Missile Range NM,HD Road King Police,24,3,0,0,0,0,1,0
+329,Robert,Carlo,Truckee,CA,Truckee CA,HD Road Glide,189,13,2,1,9,0,13,1
+330,Kelly,Quinn,Truckee,CA,Truckee CA,HD Road Glide,49,3,2,1,0,0,1,0
+331,Ken,Schleman,Custer,SD,Custer SD,BMW R1200Rt,9,0,0,0,3,0,5,0
+332,Nikki,Chambless,Scottsville,VA,Scottsville VA,Royal Enfield,0,0,0,0,0,0,0,0
+333,Kirby,Robinson,Charlottesville,VA,Charlottesville VA,Royal Enfield,0,0,0,0,0,0,0,0
+334,Linda,Schleman,Custer,SD,Custer SD,BMW R1200RT,8,0,0,0,1,0,3,0
+335,Thomas,Hufford,Kansas City,KS,Kansas City KS,HD Ultra Limited,7,1,1,1,0,0,1,0
+336,Gerald,Stritt,Hays,KS,Hays KS,Honda Goldwing,0,0,0,0,0,0,0,0
+337,Eric,Hendrickson,Dothan,AL,Dothan AL,HD Road King Police,7,1,0,0,0,0,0,0
+338,Charles,Joines,Daleville,AL,Daleville AL,HD Ultra Limited,7,1,0,0,0,0,0,0
+339,Mark,Clark,Grain Valley,MO,Grain Valley MO,Victory CC Tour,14,2,0,0,3,0,0,0
+340,Linda,Clark,Grain Valley,MO,Grain Valley MO,Pillion #339,14,2,0,0,3,0,0,0
+341,Donald,Hostetler,Vermilion,OH,Vermilion OH,HD Ultra,13,1,1,0,0,0,0,0
+342,James,Puckett,Midland,MI,Midland MI,HD Road Glide Special,0,0,0,0,0,0,0,0
+343,Brad,Richards,Gilbert,AZ,Gilbert AZ,Kawasaki Z1000SX,7,1,0,0,0,0,0,0
+344,Ronald,Trainor,Pembroke,MA,Pembroke MA,HD Ultra Classic Trike,24,1,0,1,0,0,0,0
+345,Aaron,Gersh,Broken Arrow,OK,Broken Arrow OK,HD,0,0,0,0,0,0,0,0
+346,Don,Wilder,Centreville,VA,Centreville VA,Honda Magna,9,0,0,0,0,0,0,0
+347,Brian,Lambert,Valrico,FL,Valrico FL,HD Ultra Limited,0,0,0,0,0,0,0,0
+348,Beau,Bowen,Lake Alfred,FL,Lake Alfred FL,BMW K1200GT,26,2,0,0,0,0,0,0
+349,Terry,Latham,Enterprise,AL,Enterprise AL,HD Electra Glide Ultra Cl,7,1,0,0,0,0,0,0
+350,Patricia,Latham,Enterprise,AL,Enterprise AL,Pillion #349,7,1,0,0,0,0,0,0
+351,Chad,Fenner,Enterprise,AL,Enterprise AL,HD,7,1,0,0,0,0,0,0
+352,Nicole,Snick,Ft Pierce,FL,Ft Pierce FL,Kawasaki Concours 14,8,0,0,0,0,31,0,0
+353,Terry,Fowler,Azle,TX,Azle TX,BMW K1300S,6,0,0,0,0,0,0,0
+354,Robert,Reid,Germantown,MD,Germantown MD,BMW K1200GT,0,0,0,0,0,0,0,0
+355,Glenn,Copeland,Pflugerville,TX,Pflugerville TX,Honda Goldwing,9,0,0,0,0,0,0,0
+356,Bobby,Kent,Austin,TX,Austin TX,BMW R 1200 GSA,7,1,0,0,0,0,0,0
+357,Jane,Read,Fuquay-Varina,NC,Fuquay-Varina NC,HD Softail Deluxe,15,1,0,0,3,3,3,0
+358,Russell,Wright,North Platte,NE,North Platte NE,Kawasaki KLR 650,7,1,1,0,0,0,0,0
+359,James,Rackler,Princeton,TX,Princeton TX,Yamaha Super Tenere,0,0,0,0,0,0,0,0
+360,Justin,Cook,Glen Allen,VA,Glen Allen VA,HD Ultra Limited,0,0,0,0,0,0,0,0
+361,Dennis,Westbrook,Mustang,OK,Mustang OK,Kawasaki C-14,0,0,0,0,0,0,0,0
+362,Diana,Nelson,Mulvane,KS,Mulvane KS,HD Heritage Cl,0,0,0,0,0,0,0,0
+363,John,Davis,Mount Vernon,WA,Mount Vernon WA,Honda VTX1800,7,1,0,0,0,0,0,0
+364,William,Buskell,Panama City Beach,FL,Panama City Beach FL,HD Road Glide,7,1,1,0,0,0,0,0
+365,David,Fies,Bulverde,TX,Bulverde TX,Kawasaki Voyager 1700,7,0,0,1,0,0,0,0
+366,Karen K,Ramsey,Wylie,TX,Wylie TX,Honda Shadow,7,1,0,0,5,0,0,0
+367,Jessie,Ramsey,Wylie,TX,Wylie TX,Honda Shadow,7,1,0,0,5,0,0,0
+368,Mike,Barillas,Oconomowoc,WI,Oconomowoc WI,Yamaha Virago,7,0,0,0,0,0,0,0
+369,Mark,Vogelgesang,Burnsville,MN,Burnsville MN,BMW GSA,25,2,2,0,6,2,2,0
+370,Dan,Carlton,SAN DIMAS,CA,SAN DIMAS CA,Honda GL1800,0,0,0,0,0,0,0,0
+371,Tige,Chastain,Anderson,IN,Anderson IN,BMW R1150RT,1,0,0,0,4,0,0,0
+372,Nathaniel,Buck,Piney Flats,TN,Piney Flats TN,BMW R1150RT,7,0,0,0,0,0,0,0
+373,Robert,Foster,Piney Flats,TN,Piney Flats TN,Yamaha FJR1300,7,0,0,0,0,0,0,0
+374,Alan,Ferry,Lakeland,FL,Lakeland FL,BMW GSA,15,2,0,0,0,0,0,0
+375,JC,Weaver,Belton,TX,Belton TX,Can Am RT,0,0,0,0,0,0,0,0
+376,Gerry,Arel,Manchester,CT,Manchester CT,BMW R1200R,33,2,2,1,3,1,0,0
+377,Martin,Cover,Annapolis,MD,Annapolis MD,BMW K1600GTL,1,0,0,0,0,0,0,0
+378,Tony,Hunter,Shepherdsville,KY,Shepherdsville KY,Victory Magnum X-1,7,1,0,0,0,0,0,0
+379,Kit,Chunhawong,Ogden,UT,Ogden UT,Yamaha FJR 1300,2,0,0,0,1,0,0,0
+380,Christopher,Sprecher,Anna,TX,Anna TX,HD Street Glide,0,0,0,0,0,0,0,0
+381,Gerald,Furniss,Arlington,VA,Arlington VA,BMW R1200GSA,84,9,2,3,19,16,0,0
+382,David,Morton,Coon Rapids,MN,Coon Rapids MN,Yamaha FJR1300,8,1,1,0,0,0,0,0
+383,Peter,Lyle,Melbourne Beach,FL,Melbourne Beach FL,Victory Cross Roads 8-Ball,4,0,0,0,0,0,0,0
+384,Rashid,Hilliard,Tacoma,WA,Tacoma WA,Kawasaki Vulcan Vaquero,0,0,0,0,0,0,0,0
+385,Alonzo,Reeves,League City,TX,League City TX,Honda NC700x,7,1,0,0,7,0,0,0
+386,Lloyd,Kreif,Sheboygan Falls,WI,Sheboygan Falls WI,HD Ultra,0,0,0,0,0,0,0,0
+387,Lisa,Kreif,Sheboygan Falls,WI,Sheboygan Falls WI,Pillion #386,1,0,0,0,0,0,0,0
+388,James,Gerdes,Melbourne,FL,Melbourne FL,Can Am RT Ltd,21,2,0,0,0,0,0,0
+389,Walter,Clark,Inman,SC,Inman SC,Yamaha FJR 1300,0,0,0,0,0,0,0,0
+390,Gary,Bartel,Apache Junction,AZ,Apache Junction AZ,Indian Roadmaster,5,0,0,0,0,0,0,0
+391,Doc,D'Errico,Southborough,MA,Southborough MA,HD FLHTCUSE4,0,0,0,0,0,0,0,0
+392,Donna,Hall,Leverett,MA,Leverett MA,Honda GlL1800 Trike,15,0,0,0,0,0,0,0
+393,Jeremy,Morgan,Clayton,NC,Clayton NC,HD Fatboy Low,0,0,0,0,0,0,0,0
+394,Kevin,Green,Sr. Albans,VT,Sr. Albans VT,BMW R1200rt,25,1,0,0,5,5,0,0
+395,David,Hathaway,Sugar Land,TX,Sugar Land TX,Kawasaki KLR650,7,0,0,0,0,0,0,0
+396,Ray,Short,Fort Walton Beach,FL,Fort Walton Beach FL,HD Ultra Classic Ltd,0,0,0,0,0,0,0,0
+397,Collin,Baird,Cameron Park,CA,Cameron Park CA,Indian Chieftain,32,0,0,0,3,7,0,0
+398,Cicily,Naef,Cameron Park,CA,Cameron Park CA,Pillion #397,24,0,0,0,2,4,0,0
+399,Chuck,Marble,Anchorage,AK,Anchorage AK,HD Street Glide,7,1,0,1,0,0,0,0
+400,Dwight,Kraai,Idaho Falls,ID,Idaho Falls ID,Yamaha FJR,4,0,0,0,0,0,0,0
+401,Magnus,Valente,Billings,MT,Billings MT,HD Ultra Ltd,14,2,1,1,1,0,0,0
+402,Jason,Jones,Maple Valley,WA,Maple Valley WA,Yamaha FJR,9,1,1,0,2,1,0,0
+403,Charlie,Fox,Arrington,TN,Arrington TN,Honda Goldwing,0,0,0,0,0,0,0,0
+404,Michael,Link,Mullica Hill,NJ,Mullica Hill NJ,Kawasaki Vulcan,9,0,0,0,0,0,2,0
+405,Richard,Cauble,Cape Coral,FL,Cape Coral FL,Honda VTX1300R,7,1,0,0,0,0,0,0
+406,Duane,Carlton,Bozeman,MT,Bozeman MT,HD Electraglide Classic,42,6,2,2,0,0,0,12
+407,John,Morton,Fuquay-Varina,NC,Fuquay-Varina NC,HD Ultra Classic,35,3,0,0,5,1,5,1
+408,Joe,Orban,Bartlett,IL,Bartlett IL,Yamaha Road Star,0,0,0,0,0,0,0,0
+409,David,Gordon,Smyrna,TN,Smyrna TN,Yamaha FJR1300,0,0,0,0,0,0,0,0
+410,Timothy,Taylor,Milton,FL,Milton FL,Kawasaki Concours,22,2,0,1,0,2,2,0
+411,Douglas,Lord,Brookfield,MA,Brookfield MA,Kawasaki Vulcan 1600 Cl,7,0,0,0,0,0,0,0
+412,Mark,Warner,Florence,KY,Florence KY,Can Am RT,8,1,0,0,9,0,0,0
+413,Tammy,Warner,Florence,KY,Florence KY,Pillion #412,8,1,0,0,9,0,0,0
+414,Brian,Volk,Goldsboro,NC,Goldsboro NC,Honda Goldwing,0,0,0,0,0,0,0,0
+415,Joe,Boddiford,Forest Hill,MD,Forest Hill MD,KTM 1190 Adventure,0,0,0,0,0,0,0,0
+416,Pete,Peterson,Wichita,KS,Wichita KS,Can Am Spyder RTS,5,0,0,0,1,1,9,1
+417,Patricia,Peterson,Wichita,KS,Wichita KS,Pillion #416,5,0,0,0,1,1,9,1
+418,Rob,Rosen,Cary,NC,Cary NC,Ducati Multistrada,0,0,0,0,0,0,0,0
+419,Jeffrey,Luke,Brimfield,MA,Brimfield MA,Yamaha Super Tenere,28,1,0,1,1,0,0,0
+420,Brian,McCaffrey,Westford,MA,Westford MA,BMW F800GS,7,0,0,1,0,0,0,0
+421,Henry,Mros III,Taunton,MA,Taunton MA,BMW R1200GS,27,1,1,0,0,1,0,0
+422,Sara,Brown,Taunton,MA,Taunton MA,Pillion #421,7,0,0,0,0,1,0,0
+423,Richard,Munsey,Fuquay-Varina,NC,Fuquay-Varina NC,Suzuki C109,1,0,0,0,0,0,0,0
+424,Tricia,Munsey,Fuquay-Varina,NC,Fuquay-Varina NC,HD Roadking,1,0,0,0,0,0,0,0
+425,Yancey,McCauley,Tyrone,NM,Tyrone NM,Indian Roadmaster,14,1,0,1,2,2,1,2
+426,Karen,McCauley,Tyrone,NM,Tyrone NM,CanAm Spyder RTS,14,1,0,1,2,2,1,2
+427,Art,Wittig,Prince Frederick,MD,Prince Frederick MD,Honda VTX1800R,7,0,0,0,0,0,0,0
+428,Chris,Gosnell,Maxwell,NE,Maxwell NE,HD Softail Crossbones,7,1,1,0,0,0,0,0
+429,Dennis,Luce,Sandpoint,ID,Sandpoint ID,BMW R1200ST,8,0,0,0,0,0,0,0
+430,Dana,Ulmo,Belton,MO,Belton MO,Yamaha FJR1300,8,1,0,2,0,0,0,0
+431,Dean,Nelson,Minot,ND,Minot ND,Victory Cross Country,0,0,0,0,0,0,0,0
+432,Marchelle,Nelson,Minot,ND,Minot ND,Can Am Spyder RT,0,0,0,0,0,0,0,0
+433,Ken,Megofna,Ridgecrest,CA,Ridgecrest CA,HD 2015 Road Glide,54,4,0,0,11,11,5,0
+434,Tim,Vansickle,Brainerd,MN,Brainerd MN,Yamaha VStar,0,0,0,0,0,0,0,0
+435,Kristin,Abell,Anchorage,AK,Anchorage AK,BMW F700GS,7,1,1,0,0,0,0,0
+436,Jim,Warner,Boise,ID,Boise ID,BMW R1100RL,13,1,1,0,0,0,0,0
+437,Sue,Flanagan,Allen Park,MI,Allen Park MI,HD Street 750,7,0,0,0,0,0,0,0
+438,Mark,Stockton,Windsor,CA,Windsor CA,BMW 1150 RT,0,0,0,0,0,0,0,0
+439,Steve,Robinson,Arlington,WA,Arlington WA,HD Road Glide Ultra,0,0,0,0,0,0,0,0
+440,Merv,Gunderson,Belgrade,MT,Belgrade MT,HD Ultra LTD Low,2,0,0,0,0,0,0,0
+441,Michael,Boyd,Lake City,FL,Lake City FL,Kawasaki ZG14,29,1,0,0,15,2,1,0
+442,Timothy,Draper,St Petersburg,FL,St Petersburg FL,Honda Shadow 750,7,1,0,0,0,0,0,0
+443,Mark,Vanderbrook,Morrison,CO,Morrison CO,Yamaha Super Ténéré ES,18,2,1,0,0,0,0,0
+444,Richard,Hammond,Powder Springs,GA,Powder Springs GA,Triumph Bonneville,3,0,0,0,0,0,0,0
+445,Robert,Savage,Bonner Springs,KS,Bonner Springs KS,Yamaha FJR 1300,7,1,0,0,0,0,0,0
+446,Karen,Savage,Bonner Springs,KS,Bonner Springs KS,Pillion #445,7,1,0,0,0,0,0,0
+447,Tom,Johansen,Orangevale,CA,Orangevale CA,Indian Vintage,32,1,0,0,3,11,0,0
+448,Linda,Berry,Orangevale,CA,Orangevale CA,Pillion #447,32,1,0,0,3,11,0,0
+449,George,Cintron Jr,Oviedo,FL,Oviedo FL,Can Am Spyder RT Ltd,7,1,0,0,0,0,0,0
+450,Wally,Osswald,Mosinee,WI,Mosinee WI,BMW R1200 GSA,15,1,0,0,0,0,0,0
+451,Jerry,Runk Jr,Wilmington,OH,Wilmington OH,Kawasaki Voyager,0,0,0,0,0,0,0,0
+452,Michael B,Starr,Abilene,TX,Abilene TX,BMW F800ST,0,0,0,0,0,0,0,0
+453,Mark,Bennett,N. Waterboro,ME,N. Waterboro ME,Honda Gold Wing 1800,14,0,0,0,0,2,0,0
+454,David,Bennett,Columbia,MO,Columbia MO,Honda Goldwing GL1800,4,0,0,0,0,0,2,0
+455,Ralph,Wenzinger,Bakersfield,CA,Bakersfield CA,HD Electra Glide Ultra Cl,1,0,0,0,0,0,0,0
+456,Jay,Stevenson,Topeka,KS,Topeka KS,BMW R1200RT,7,1,0,0,0,0,0,0
+457,Rick,Dorsey,Finksburg,MD,Finksburg MD,BMW K1200,0,0,0,0,0,0,0,0
+458,Trevor,Mackie,Shelburne Falls,MA,Shelburne Falls MA,Kawasaki Vulcan Voyager,158,8,0,0,12,41,5,12
+459,Jeff,Bush,Rockingham,VA,Rockingham VA,HD Road Glide,16,0,0,0,4,1,2,0
+460,Rick,Armour,Holland,PA,Holland PA,Triumph Trophy SE,5,0,0,0,3,0,0,0
+461,Brad,Edmonds,Millsboro,DE,Millsboro DE,HD Road Glide Ultra,10,1,0,1,0,0,0,0
+462,Rebecca,Rasmussen,Highlands Ranch,CO,Highlands Ranch CO,HD Trike,17,1,1,1,0,0,0,0
+463,Doug,Rasmussen,Highlands Ranch,CO,Highlands Ranch CO,HD Road Glide CVO,16,1,1,1,0,0,0,0
+464,Ryan,Riedy,Pierre,SD,Pierre SD,HD Street Glide,0,0,0,0,0,0,0,0
+465,Thomas,Lambui,Shirley,NY,Shirley NY,HD Electra Glide UFS,0,0,0,0,0,0,0,0
+466,Steve,Brooks,Auburn,CA,Auburn CA,HD Road Glide,1,0,0,0,0,0,0,0
+467,Cynthia,Brooks,Auburn,CA,Auburn CA,Pillion #466,1,0,0,0,0,0,0,0
+468,Dave,Brooks,Star,ID,Star ID,BMW K1600GTLE,8,0,0,0,0,0,0,0
+469,Marilyn,Brooks,Star,ID,Star ID,Pillion #468,8,0,0,0,0,0,0,0
+470,Jerry,Mann,Fennimore,WI,Fennimore WI,HD Limited,18,2,0,1,0,0,0,0
+471,Michael,Early,Frisco,TX,Frisco TX,Honda Goldwing,1,0,0,0,1,1,0,0
+472,Richard,Glatter,Little Rock,AR,Little Rock AR,Suzuki V-Strom 650,2,0,0,0,0,0,1,0
+473,Grady,Brown III,Mesquite,TX,Mesquite TX,HD Road King,14,2,0,1,0,1,0,0
+474,Richard,Freund,DeSoto,MO,DeSoto MO,Kawasaki Vulcan 1600,7,1,0,1,0,0,0,0
+475,Nicole,Freund,Pacific,MO,Pacific MO,Honda Shadow ACE,7,1,0,1,0,0,0,0
+476,Eric,Eves,Las Vegas,NV,Las Vegas NV,Yamaha FJR,27,0,0,0,2,7,15,0
+477,William,Rouse,Plantation,FL,Plantation FL,Can Am STS SE-5,0,0,0,0,0,0,0,0
+478,Lucretia,Rouse,Plantation,FL,Plantation FL,Can Am STS SE-5,0,0,0,0,0,0,0,0
+479,Tom,Myers,Petaluma,CA,Petaluma CA,Yamaha FJR1300,15,0,0,0,0,0,0,0
+480,Dean,Harlan,Greenwood,IN,Greenwood IN,Yamaha FJR1300,10,1,0,0,0,0,0,0
+481,Brent,Cornell,Taylorville,IL,Taylorville IL,Honda Goldwing,29,2,0,1,6,1,1,1
+482,Jim,Hines,Traverse City,MI,Traverse City MI,Honda VTX 1300C,0,0,0,0,0,0,0,0
+483,Priscilla,Langenderfer,Tulsa,OK,Tulsa OK,HD Softail Deluxe,11,0,0,0,8,3,6,0
+484,Steve,Sherman,Peculiar,MO,Peculiar MO,BMW R1200RT,0,0,0,0,0,0,0,0
+485,Cindy,Speyrer,Rockwall,TX,Rockwall TX,Can Am Spyder RTS,0,0,0,0,0,0,0,0
+486,Tim,Bronson,Pittsburgh,PA,Pittsburgh PA,BMW R1200,8,0,0,0,2,2,0,2
+487,Jeffrey,Konicek,Tacoma,WA,Tacoma WA,Kawasaki,23,1,0,0,0,4,0,0
+488,Stephen,Vook,Minot,ND,Minot ND,BMW K1600GTL,13,0,0,0,0,0,0,0
+489,Steve,Hines,Charlevoix,MI,Charlevoix MI,Honda Goldwing,0,0,0,0,0,0,0,0
+490,Thomas,Cochran,Lakeland,FL,Lakeland FL,BMW R1200 GSAdventure,18,1,0,0,0,0,0,0
+491,Maple Tony,Pinnock,Orlando,FL,Orlando FL,Can Am Spyder RTS,7,1,0,0,0,0,0,0
+492,Joseph,Pusateri,Killeen,TX,Killeen TX,HD Tri Glide,0,0,0,0,0,0,0,0
+493,Gitta,Pusateri,Killeen,TX,Killeen TX,Pillion #492,0,0,0,0,0,0,0,0
+494,James,Adkins,Lorain,OH,Lorain OH,Honda Shadow Phantom,3,0,0,0,0,0,0,0
+495,Opal,Adkins,Lorain,OH,Lorain OH,Honda Shadow Aero,3,0,0,0,0,0,0,0
+496,Edward,Curry,Briarcliff,TX,Briarcliff TX,HD Switchback,0,0,0,0,0,0,0,0
+497,Paul,Norris,Chester Springs,PA,Chester Springs PA,Honda Goldwing 1800,0,0,0,0,0,0,0,0
+498,Keith,Brown,Madison,WI,Madison WI,Suzuki GSXR-1000,0,0,0,0,0,0,0,0
+499,David,Schlosser,O'Fallon,IL,O'Fallon IL,HD Electra Glide,7,0,0,0,2,0,0,0
+500,Dennis,Creamer,New Bern,NC,New Bern NC,HD Street Glide,0,0,0,0,0,0,0,0
+501,Hans,Chapman,Manchester,NH,Manchester NH,Yamaha VStar,0,0,0,0,0,0,0,0
+502,Robert,Vincent,Woodbridge,VA,Woodbridge VA,HD Road King,0,0,0,0,0,0,0,0
+503,Virginia,Chapman,Sanbornton,NH,Sanbornton NH,Honda Shadow,0,0,0,0,0,0,0,0
+504,Matthew,Preswood,Marshallberg,NC,Marshallberg NC,HD Softail Duece,0,0,0,0,0,0,0,0
+505,Mike,Spencer,New Bern,NC,New Bern NC,HD FLHX,0,0,0,0,0,0,0,0
+514,Leonard,Brown,Coupeville,WA,Coupeville WA,Yamaha V-Star 1300,7,1,0,0,0,0,0,0
+516,Kyle,Conley,Quartzsite,AZ,Quartzsite AZ,HD Heritage Softail Cl,0,0,0,0,0,0,0,0
+555,Del,Brand,Sparks,NV,Sparks NV,Honda GL1800A,71,6,1,0,12,9,11,4
+593,Edd,Auger,Norwich,CT,Norwich CT,BMW R1150RT,48,2,0,0,1,10,1,0
