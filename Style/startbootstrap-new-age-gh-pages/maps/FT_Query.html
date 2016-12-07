@@ -43,28 +43,35 @@
       var queryLayer = null;
       var currentLayer = null;
       var center = new google.maps.LatLng(39.828200, -98.579500);
+	   var bounds = {
+              north: 49.037868,
+              south: 24.886436,
+              east: -66.796875,
+              west: -124.584961
+          };
 
       var query1;
       var query2;
-
 
       function initialize() {
 
         // Define Style
         var newStyle = [{"elementType":"geometry","stylers":[{"color":"#c1fcb8"},{"weight":"1.00"}]},{"elementType":"labels","stylers":[{"visibility":"off"}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"elementType":"labels.text.fill","stylers":[{"lightness":20},{"gamma":0.01}]},{"elementType":"labels.text.stroke","stylers":[{"saturation":-31},{"lightness":-33},{"gamma":0.8},{"weight":2}]},{"featureType":"administrative","elementType":"geometry","stylers":[{"hue":"#ff0000"},{"visibility":"off"}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"geometry.stroke","stylers":[{"color":"#808080"},{"visibility":"on"}]},{"featureType":"administrative.province","elementType":"geometry.stroke","stylers":[{"color":"#804040"},{"visibility":"on"}]},{"featureType":"administrative.province","elementType":"labels.text","stylers":[{"color":"#808080"},{"visibility":"on"},{"weight":1}]},{"featureType":"administrative.province","elementType":"labels.text.fill","stylers":[{"color":"#606060"}]},{"featureType":"administrative.province","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"},{"visibility":"on"}]},{"featureType":"landscape","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"poi","stylers":[{"color":"#e0ffd3"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"saturation":20}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"saturation":-20},{"lightness":20}]},{"featureType":"poi.park","elementType":"geometry.fill","stylers":[{"color":"#41ff82"},{"visibility":"on"}]},{"featureType":"road","stylers":[{"weight":"2.00"}]},{"featureType":"road","elementType":"geometry","stylers":[{"color":"#57aa9f"},{"saturation":"-67"},{"lightness":"-20"},{"gamma":"1.32"},{"visibility":"simplified"},{"weight":"2.00"}]},{"featureType":"road","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"weight":"2.00"}]},{"featureType":"road","elementType":"geometry.stroke","stylers":[{"color":"#f1ff8a"},{"saturation":25},{"lightness":25},{"visibility":"on"},{"weight":"1.00"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"},{"weight":"2.12"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#4c98a8"},{"weight":"2.63"}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#f1ff8a"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#4c98a8"},{"visibility":"on"}]},{"featureType":"road.highway","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"transit","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"geometry","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"transit.line","stylers":[{"visibility":"off"}]},{"featureType":"transit.station","stylers":[{"visibility":"off"}]},{"featureType":"water","stylers":[{"color":"#1b89d9"},{"lightness":-20}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#1b87d9"}]},{"featureType":"water","elementType":"labels","stylers":[{"visibility":"off"}]}];
 
-        var customStyleVar = new google.maps.StyledMapType(newStyle, {name: "Pokemon!"});	//Creates a new map style from "newStyle" and names it "Blue Night". This style is referenced by "customStyleVar".
+        var customStyleVar = new google.maps.StyledMapType(newStyle, {name: "Pokémon!"});	//Creates a new map style from "newStyle" and names it "Blue Night". This style is referenced by "customStyleVar".
 
           var mapDiv = document.getElementById('googft-mapCanvas');
           map = new google.maps.Map(mapDiv, {
-              center: center,
-              zoom: 4,
+              //center: center,
+              //zoom: 4,
               disableDefaultUI: true,
               mapTypeControl: true,
+			  streetViewControl: true,
               mapTypeControlOptions: {
     						mapTypeIds: ['roadmap', 'hybrid', 'styled_map1'],	// adds "styled_map1" to map type menu, but labels it by the name deifned in line 21 "What? Pokemon!"
     					},
           });
+		  map.fitBounds(bounds);
           // Add new map style to map
           map.mapTypes.set('styled_map1', customStyleVar);	// Ceates a new map type called "styled_map1" from "customStyleVar"
           map.setMapTypeId('styled_map1');	//Sets map's default type to "styled_map1". Default style can be set to: roadmap, satellite, hybrid, terrain. Only custom styles need quotes.
@@ -78,8 +85,9 @@
           });
           currentLayer = kmlLayer;
           map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend-open'));
-          map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById("googft-legend"))
-      }
+          map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById("googft-legend"));
+					document.getElementById("googft-legend").style.display="none";
+			}
 
       function passVar1() {
           lowNum = document.getElementById("lowNum").value;
@@ -112,7 +120,8 @@
                   select: "Flag",
                   from: "1wEi1klGCHS_9RxFmIrxgcWqZO4jYCv8SSGxxUGre"
               }
-  })}
+		  });
+		}
 
       function reset2(){
           riderLayer.setOptions({
@@ -120,11 +129,13 @@
                   select: "Flag",
                   from: "1sIH9DhpWJqagN5UkKqBUfUz3MTezl_acw4luDSPJ"
               }
-          })}
+          });
+				}
 
       function riderF() {
           //map.setCenter(center);
           //map.setZoom(5);
+
           clearLayer();
           riderLayer = new google.maps.FusionTablesLayer({
               map: map,
@@ -137,6 +148,7 @@
           });
           riderLayer.setMap(map);
           currentLayer = riderLayer;
+					document.getElementById("googft-legend").style.display="none";
       }
 
       function queryF() {
@@ -154,6 +166,7 @@
           });
           queryLayer.setMap(map);
           currentLayer = queryLayer;
+					document.getElementById("googft-legend").style.display="block";
       }
 
       function kmlF() {
@@ -164,6 +177,7 @@
               preserveViewport: true
           });
           currentLayer = kmlLayer;
+					document.getElementById("googft-legend").style.display="none";
       }
 
       function clearLayer() {
@@ -175,12 +189,6 @@
       function extentF(){
           //map.setCenter(center);
           //map.setZoom(4);
-          var bounds = {
-              north: 49.037868,
-              south: 24.886436,
-              east: -66.796875,
-              west: -124.584961
-          };
           map.fitBounds(bounds);
       }
 
@@ -231,7 +239,6 @@
             <br>
           </div>
 
-
   				<div class="tab-pane" id="results"><br>Total Sites Visited by Riders, 2016
             <br><br>
         		<input type="text" id="lowNum" placeholder ="Min Site Visits" value = "">&nbsp;&nbsp;
@@ -254,6 +261,7 @@
 
 <div id="googft-mapCanvas"></div>
 <input id="googft-legend-open" style="display:none" type="button" value="Legend"></input>
+
 <div id="googft-legend">
     <p id="googft-legend-title">Sites Visited</p>
     <div>
@@ -294,6 +302,7 @@
     </div>
     <input id="googft-legend-close" style="display:none" type="button" value="Hide"></input>
 </div>
+
 
 <!-- jQuery -->
 <script src="../vendor/jquery/jquery.min.js"></script>
