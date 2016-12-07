@@ -44,9 +44,9 @@
       var currentLayer = null;
       var center = new google.maps.LatLng(39.828200, -98.579500);
 
-  var lowNum;
-  var query1;
-  var query2;
+      var query1;
+      var query2;
+
 
       function initialize() {
 
@@ -78,7 +78,7 @@
           });
           currentLayer = kmlLayer;
           map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend-open'));
-          map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById('googft-legend'))
+          map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(document.getElementById("googft-legend"))
       }
 
       function passVar1() {
@@ -172,6 +172,18 @@
           }
       }
 
+      function extentF(){
+          //map.setCenter(center);
+          //map.setZoom(4);
+          var bounds = {
+              north: 49.037868,
+              south: 24.886436,
+              east: -66.796875,
+              west: -124.584961
+          };
+          map.fitBounds(bounds);
+      }
+
       google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 
@@ -204,7 +216,7 @@
   			<div class="tab-content">
   				<div class="tab-pane active" id="memorials"><br>2016 Tour of Honor Memorials
             <br><br>
-            <button onclick="passVar()" type="button" class="btn btn-secondary btn-sm">Full Extent</button>
+            <button onclick="extentF()" type="button" class="btn btn-secondary btn-sm">Full Extent</button>
             <br>
           </div>
 
