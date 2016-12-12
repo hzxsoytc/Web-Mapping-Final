@@ -6,19 +6,10 @@
 	<Document>
 		<name>2016 Alabama Tour of Honor Motorcycle Ride</name>
 		<open>1</open>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -29,9 +20,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -141,19 +143,10 @@
 	<Document>
 		<name>2016 Alaska Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Glenn Copeland of Pflugerville, Texas. If you need to contact Glenn to discuss the 2016 TOH sites in Alaska, email him at gcope@yahoo.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -164,9 +157,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -275,19 +279,10 @@
 	<Document>
 		<name>2016 Arizona Tour of Honor Motorcycle Ride</name>
 		<description><![CDATA[Arizona is proudly sponsored by Matthew Hogan.<br><br>When Matthew brought his wife and daughter to Kingman, Arizona they came for reasons that had nothing to do with anything Kingman had to offer. As time passed, Kingman has become home to the degree that they can’t imagine living anywhere else. They are currently working to establish a counseling ministry in Kingman.<br><br>If you need to contact Matthew to discuss the 2016 TOH sites for Arizona, or just to thank him for a job well-done, email him at matthewtherider@gmail.com.]]></description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -298,9 +293,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -409,19 +415,10 @@
 	<Document>
 		<name>2016 Arkansas Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Eric Marshall. If you need to contact Eric to discuss the 2016 TOH sites in Arkansas, email him at colonyedm@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -432,9 +429,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -543,19 +551,10 @@
 	<Document>
 		<name>2016 California Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Rob Elliott. If you need to contact Rob to discuss the 2016 TOH sites in California, email him at rob071484@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -566,9 +565,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -677,19 +687,10 @@
 	<Document>
 		<name>2016 Colorado Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Janet Lennox. If you need to contact Janet to discuss the 2016 TOH sites in Colorado, email her at janet.lennox@charter.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -700,9 +701,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -811,19 +823,10 @@
 	<Document>
 		<name>2016 Dakotas Region Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Glenn Copeland of Pflugerville, Texas. If you need to contact Glenn to discuss the 2016 TOH sites in North and South Dakota, email him at gcope@yahoo.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -834,9 +837,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -958,19 +972,10 @@
 	<Document>
 		<name>2016 Florida Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Jim Clement of St. Petersburg, Florida. If you need to contact Jim to discuss the 2016 TOH sites in Florida, email him at jmc3801@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -981,9 +986,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1092,19 +1108,10 @@
 	<Document>
 		<name>2016 Georgia Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Wes McCann. If you need to contact Wes to discuss the 2016 TOH sites in Georgia, or to express thanks for his work, email him at wfmccann777@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1115,9 +1122,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1226,19 +1244,10 @@
 	<Document>
 		<name>2016 Hawaii Tour of Honor Motorcycle Ride</name>
 		<description>Memorial destinations on Oahu, visited by motorcycle. Motorcycle rental discounts are given to Tour of Honor participants at Cruzin Hawaii, Waikiki. http://cruzinhawaii.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1249,9 +1258,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1360,19 +1380,10 @@
 	<Document>
 		<name>2016 Idaho Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Randy Holcomb of Salem, Oregon. If you need to contact Randy to discuss the 2016 TOH sites in Idaho, email him at randyholc@comcast.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1383,9 +1394,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1503,19 +1525,10 @@
 	<Document>
 		<name>2016 Illinois Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Mike Dooley. If you need to contact Mike to discuss the 2016 TOH sites in Iowa -- or to thank him for his work -- email him at dooleysan@yahoo.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1526,9 +1539,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1637,19 +1661,10 @@
 	<Document>
 		<name>2016 Indiana Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Thomas Southwood. If you need to contact Thomas to discuss the 2016 TOH sites in Indiana, email him at Indytriumph1@aol.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1660,9 +1675,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1771,19 +1797,10 @@
 	<Document>
 		<name>2016 Iowa Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Mike Dooley. If you need to contact Mike to discuss the 2016 TOH sites in Iowa -- or to thank him for his work -- email him at dooleysan@yahoo.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1794,9 +1811,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -1905,19 +1933,10 @@
 	<Document>
 		<name>2016 Kansas Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Alexander Schmidt of Phoenix, Arizona. If you need to contact Alexander to discuss the 2016 TOH sites in Kansas, or to thank him for his work here, email him at alexander.schmidt.cx@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -1928,9 +1947,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2039,19 +2069,10 @@
 	<Document>
 		<name>2016 Kentucky Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Lynne Carey of Bowling Green, Kentucky. If you need to contact Lynne to discuss the 2016 TOH sites in Kentucky, email her at gijane42104@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2062,9 +2083,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2172,19 +2204,10 @@
 	</Document>
 	<Document>
 		<name>2016 Louisiana Tour of Honor Motorcycle Ride</name>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2195,9 +2218,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2306,19 +2340,10 @@
 	<Document>
 		<name>2016 Michigan Tour of Honor Motorcycle Ride</name>
 		<description><![CDATA[Proudly sponsored by Sam "Preacherman" Cottle of West Branch, Michigan. If you need to contact Sam to discuss the 2016 TOH sites in Michigan, contact him at hgpreacherman@gmail.com or 989-906-6558<br><br>Sam takes part in several BIKER BLESSINGS, including:<br><br>Sunday, 24 April 2016, 9:00am<br>West Branch, Michigan<br>West Branch Regional Medical Center<br>Hosted by Sam "Preacherman" Cottle<br>Followed by ride to the Birch Run Swap Meet<br><br>Sunday, 24 April 2016, 10:00am-4:00pm<br>Holland, Michigan<br>Lakeshore Blessing of the Bikes<br>http://www.cyclefish.com/event/33721/<br><br>Sunday, 1 May 2016<br>Ovid, Michigan<br>The Blessing of the Bikers <br>Sam "Preacherman "Cottle prays the blessing. <br>http://www.cotlw.org/ministries/blessing.html<br><br>Friday-Sunday, 13-15 May 2016<br>Baldwin, Michigan<br>Para Dice Motorcycle Club<br>"Michigan’s Oldest Blessing"<br>https://www.facebook.com/pages/Blessing-of-the-Bikes-Baldwin-Michigan/108665792508102<br>]]></description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2329,9 +2354,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2440,19 +2476,10 @@
 	<Document>
 		<name>2016 Mid-Atlantic Region Tour of Honor Motorcycle Ride</name>
 		<description><![CDATA[The Mid-Atlantic Region Tour of Honor consists of New Jersey, Washington, DC, Delaware, Maryland, and is proudly sponsored by 5th generation New Englander JAMES HATCH, of Simsbury, Connecticut. If you need to contact Jim to discuss the 2016 TOH sites in the Mid-Atlantic region, email him at jamesdhatch at gmail dot com<br>]]></description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2463,9 +2490,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2691,19 +2729,10 @@
 	<Document>
 		<name>2016 Minnesota Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Bud Bonnema of Willmar, Minnesota. If you need to contact Bud to discuss the 2016 TOH sites in Minnesota, email him at bbonnema2@yahoo.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2714,9 +2743,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2825,19 +2865,10 @@
 	<Document>
 		<name>2016 Mississippi Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Lynne Carey of Bowling Green, Kentucky. If you need to contact Lynne to discuss the 2016 TOH sites in Kentucky, email her at gijane42104@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2848,9 +2879,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -2959,19 +3001,10 @@
 	<Document>
 		<name>2016 Missouri Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Bob Rippy of Village of Loch Lloyd, Missouri. If you need to contact Bob to discuss the 2016 TOH sites in Missouri, email him at olmizzou@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -2982,9 +3015,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -3093,19 +3137,10 @@
 	<Document>
 		<name>2016 Montana Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Alan Redd of Cedar Park, Texas. If you need to contact Alan to discuss the 2016 TOH sites in Montana -- or to thank him for his work -- email him at aredd@austin.rr.com.</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -3116,9 +3151,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -3227,19 +3273,10 @@
 	<Document>
 		<name>2016 Nebraska Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Charles Lanterman of Red Rock, Texas. If you need to contact Charles to discuss the 2016 TOH sites in Nebraska, email him at donkeevoh@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -3250,9 +3287,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -3361,19 +3409,10 @@
 	<Document>
 		<name>2016 Nevada Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Jim Bardin of Phoenix, Arizona. If you need to contact Jim to discuss the 2016 TOH sites in Nevada, email him at jamesbardin1@cox.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -3384,9 +3423,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -3495,19 +3545,10 @@
 	<Document>
 		<name>2016 New England Region Tour of Honor Motorcycle Ride</name>
 		<description>The New England Tour of Honor consists of Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, and is proudly sponsored by 5th generation New Englander JAMES HATCH, of Simsbury, Connecticut. If you need to contact Jim to discuss the 2016 TOH sites in New England, email him at jamesdhatch at gmail dot com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -3518,9 +3559,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -3850,19 +3902,10 @@
 	<Document>
 		<name>2016 New Mexico Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Mark Kratz of Florence, Texas. If you need to contact Mark to discuss the 2016 TOH sites in New Mexico, email him at balistx@me.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -3873,9 +3916,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -3984,19 +4038,10 @@
 	<Document>
 		<name>2016 New York Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Joe Majsak of White Plains, New York. If you need to contact Joe to discuss the 2016 TOH sites in New York, email him at jmajsak@verizon.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4007,9 +4052,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4118,19 +4174,10 @@
 	<Document>
 		<name>2016 North Carolina Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Jerry Read of Fuquay Varina, North Carolina. If you need to contact Jerry to discuss the 2016 TOH sites in North Carolina, email him at jerry@jread.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4141,9 +4188,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4252,19 +4310,10 @@
 	<Document>
 		<name>2016 Ohio Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Mark Scott of West Chester, Ohio. If you need to contact Mark to discuss the 2016 TOH sites in Ohio, email him at iba56978@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4275,9 +4324,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4386,19 +4446,10 @@
 	<Document>
 		<name>2016 Oklahoma Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Eric Marshall of The Colony, Texas. If you need to contact Eric to discuss the 2016 TOH sites in Oklahoma, email him at colonyedm@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4409,9 +4460,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4520,19 +4582,10 @@
 	<Document>
 		<name>2016 Oregon Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Randy Holcomb of Salem, Oregon. If you need to contact Randy to discuss the 2016 TOH sites in Oregon, email him at randyholc@comcast.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4543,9 +4596,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4654,19 +4718,10 @@
 	<Document>
 		<name>2016 Pennsylvania Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Joe Yarzebinski of Western Pennsylvania. If you need to contact Joe to discuss the 2016 TOH sites in Pennsylvania, email him at ironbutter@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4677,9 +4732,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4788,19 +4854,10 @@
 	<Document>
 		<name>2016 South Carolina Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Jerry Read of Fuquay Varina, North Carolina. If you need to contact Jerry to discuss the 2016 TOH sites in South Carolina, email him at jerry@jread.net</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4811,9 +4868,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -4922,19 +4990,10 @@
 	<Document>
 		<name>2016 Tennessee Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Lyle Monroe, Jr. of Tennessee. If you need to contact Lyle to discuss the 2016 TOH sites in Tennessee, email him at Lyle.Monroe@tn.gov</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -4945,9 +5004,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5056,19 +5126,10 @@
 	<Document>
 		<name>2016 Texas Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Glenn Copeland of Pflugerville, Texas. If you need to contact Glenn to discuss the 2016 TOH sites in Texas, email him at gcope@yahoo.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5079,9 +5140,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5190,19 +5262,10 @@
 	<Document>
 		<name>2016 Utah Tour of Honor Motorcycle Ride</name>
 		<description>If you have any questions or concerns about sites in Utah, email the organizers at admin at tourofhonor dot com.</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5213,9 +5276,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5324,19 +5398,10 @@
 	<Document>
 		<name>2016 Virginia Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Kirby Robinson and Nikki Chambless of Charlottesville, Virginia. If you need to contact Kirby or Nikki to discuss the 2016 TOH sites in Virginia, email them at jkrobin@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5347,9 +5412,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5458,19 +5534,10 @@
 	<Document>
 		<name>2016 Washington Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by John Davis of Mount Vernon, Washington. If you need to contact John to discuss the 2016 TOH sites in Washington, or to just thank him for a job well done, email him at retrorider@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5481,9 +5548,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5592,19 +5670,10 @@
 	<Document>
 		<name>2016 West Virginia Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by David Brain, Sr. of Millersville, Maryland. If you need to contact David to discuss the 2016 TOH sites in West Virginia, email him at dbrainsr@msn.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5615,9 +5684,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5726,19 +5806,10 @@
 	<Document>
 		<name>2016 Wisconsin Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Bob and Jackie Weibel of Menomonie, Wisconsin. If you need to contact Bob and Jackie to discuss the 2016 TOH sites in Wisconsin, or to thank them for a job well-done, email them at bulhauler@hotmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5749,9 +5820,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
@@ -5860,19 +5942,10 @@
 	<Document>
 		<name>2016 Wyoming Tour of Honor Motorcycle Ride</name>
 		<description>Proudly sponsored by Rob Elliott of San Diego, California. If you need to contact Rob to discuss the 2016 TOH sites in Wyoming, or would like to thank him for his work, email him at rob071484@gmail.com</description>
-		<StyleMap id="icon-503-DB4436">
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#icon-503-DB4436-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
 		<Style id="icon-503-DB4436-normal">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
 				</Icon>
@@ -5883,9 +5956,20 @@
 			<ListStyle>
 			</ListStyle>
 		</Style>
+		<StyleMap id="icon-503-DB4436">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
 		<Style id="icon-503-DB4436-highlight">
 			<IconStyle>
 				<color>ff0000ff</color>
+				<scale>1.2</scale>
 				<Icon>
 					<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
 				</Icon>
